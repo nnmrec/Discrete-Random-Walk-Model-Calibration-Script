@@ -17,7 +17,7 @@ Follow the steps below to run the script:
   - Dowanload the particle data input files:
   
   ```
-  coming soon!
+  https://www.dropbox.com/sh/nm5z2xai9xq8x0g/AAA4f9zcN5k-chG4wE7oAl0ca
   ```
   - Open the source script in MATLAB.
   - ! To run the script with set of new generated inputs, the name of input files need to be matched within the body of the MATLAB script.
